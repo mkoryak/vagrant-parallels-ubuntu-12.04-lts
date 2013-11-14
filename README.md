@@ -1,4 +1,4 @@
-# Building a new vagrant box from definitions (ubuntu-12.04-server-amd64)
+### Building a new vagrant box from definitions (ubuntu-12.04-server-amd64)
 
 **Requirements**:
 
