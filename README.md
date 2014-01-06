@@ -1,5 +1,7 @@
 ### Building a new vagrant parallels box from definitions (ubuntu-12.04-server-amd64)
 
+[![Donate](http://programmingdrunk.com/donate-coffee.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=SDJJ42BTC46LY&lc=US&item_name=floatThead&currency_code=USD&bn=PP%2dDonationsBF%3adonate%2dcoffee%2epng%3aNonHosted)
+
 **Requirements**:
 
  - you should have parallels installed (tested with 8)
